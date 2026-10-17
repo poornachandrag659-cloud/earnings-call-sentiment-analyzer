@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.cache/
+.huggingface/
+outputs/
+data/transcripts/*
+!data/transcripts/.gitkeep
+data/lm_dictionary.csv
+data/prices_real.csv
+*.parquet
+.DS_Store
