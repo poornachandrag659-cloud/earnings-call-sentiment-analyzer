@@ -1,0 +1,16 @@
+word,negative,positive
+strong,0,1
+growth,0,1
+improved,0,1
+profit,0,1
+robust,0,1
+raised,0,1
+higher,1,0
+costs,1,0
+risks,1,0
+weaker,1,0
+pressured,1,0
+lowered,1,0
+uncertainty,1,0
+stable,0,1
+adequate,0,1
