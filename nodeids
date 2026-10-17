@@ -1,0 +1,6 @@
+[
+  "tests/test_event_study.py::test_returns_and_summary",
+  "tests/test_sentiment.py::test_chunks",
+  "tests/test_sentiment.py::test_lm_score",
+  "tests/test_sentiment.py::test_tokenize"
+]
